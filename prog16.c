@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main() {
+   int a,b;
+   scanf("%d%d",&a,&b);
+   if(a<b) {
+   printf("a is smallest");}
+   else {
+   printf("b is smallest");}}
+   
